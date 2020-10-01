@@ -44,7 +44,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 
 INSTALLATION
-------------
+------------------------
 1- get the latest version of the source from the git repository git://github.com/fczuardi/site-editor.git
 2- create a new directory on the ning app you want to enable Site Editor using SFTP (yoursite/siteeditor)
 3- copy the contents of the src/ folder
